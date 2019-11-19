@@ -86,7 +86,6 @@ class HoroscopeController {
 				->withTimeout(5)
 				->withCallback(function($response) use ($sendto) {
 					$this->sendHoroscope($response, $sendto);
-					$sendto->reply($msg);
 				});
 	}
 
