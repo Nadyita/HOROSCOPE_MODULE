@@ -1,6 +1,6 @@
 name = "HOROSCOPE_MODULE"              # Alphanumeric, - or _ allowed. Maximum 30 characters.
 description = "Ganesha tell your fortune"         # Any string. Maximum 100 characters.
-version = "0.1.0"                  # Any semantic version number.
+version = "0.1.1"                  # Any semantic version number.
 author = "Nadyita"                 # Any string. Maximum 30 characters.
 bot_type = "Nadybot"               # Either "Nadybot", "Tyrbot", "Budabot" or "BeBot".
 bot_version = "^5.0.0"             # Semantic version requirement of the bot.
