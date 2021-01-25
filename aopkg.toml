@@ -1,0 +1,6 @@
+name = "HOROSCOPE_MODULE"
+description = "Ganesha tells your fortune"
+version = "0.1.0"
+author = "Nadyita"
+bot_type = "Budabot"
+bot_version = "^4.0.0"
